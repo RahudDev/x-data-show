@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 My email - [rahudnaingglan@gmail.com](mailto:rahudnainggolan@gmail.com)
-Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+Project Link: [https://github.com/RahudDev/x-data-show](https://github.com/RahudDev/x-data-show)
